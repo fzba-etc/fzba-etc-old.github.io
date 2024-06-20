@@ -34,9 +34,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-domain: fzba-etc.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://fzba-etc.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /fzba-etc.github.io/      # place folder name if the site is served in a subfolder
+# domain: fzba-etc.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# url: https://fzba-etc.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl: /fzba-etc.github.io/      # place folder name if the site is served in a subfolder
 
 # Exclude from processing.
 # The following items will not be processed, by default.
