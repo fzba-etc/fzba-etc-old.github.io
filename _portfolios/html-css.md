@@ -1,9 +1,9 @@
 ---
 layout: portfolio
-title: "Paintaining"
-categories: ["Design"]
+title: "Web App"
+categories: ["HTML-CSS"]
 thumbnail: "/assets/images/portfolio/p-6.jpg"
-description: "incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat.duis aute irure sint occae cat cupidatat"
+description: "incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat.duis aute irure sint "
 ---
 <div class="col-lg-8 text-center">
 	<h3 class="mb-5 mt-2">{{page.title}}</h3>

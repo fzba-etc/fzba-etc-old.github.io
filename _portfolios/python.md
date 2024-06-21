@@ -1,9 +1,9 @@
 ---
 layout: portfolio
-title: "Paintaining"
-categories: ["Photography"]
-thumbnail: "/assets/images/portfolio/p-3.jpg"
-description: "sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat.duis aute irure sint occae cat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed perspiciatis unde omnis iste natus error sit voluptatem"
+title: "Python Project Name"
+categories: ["Python"]
+thumbnail: "/assets/images/portfolio/p-4.jpg"
+description: "labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat.duis aute irure sint occae"
 ---
 <div class="col-lg-8 text-center">
 	<h3 class="mb-5 mt-2">{{page.title}}</h3>
